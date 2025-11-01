@@ -1,0 +1,2 @@
+collections:
+   - name: community.docker    # Collection que contiene el plugin de conexión y módulos para Docker
